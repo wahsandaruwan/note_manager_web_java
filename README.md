@@ -7,6 +7,10 @@
 * Java Servlet
 * Java JSTL
 * MySQL
+* HTML
+* CSS
+* JScript
+* Bootstrap
 
 #### Features
 * Create Note
